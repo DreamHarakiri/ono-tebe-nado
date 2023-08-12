@@ -271,7 +271,7 @@ h3 {
 
 .lots__card-list-item {
     width: 430px;
-    height: 450px;
+    min-height: 450px;
 }
 
 .card-link {
